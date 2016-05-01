@@ -1,0 +1,28 @@
+name: Storaas-Barsnes
+favicon: null
+layout_spectrum: 0.7858219293411821
+typography_spectrum: 0.43170529464259744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7971342166420072
+  lightness: 0.17686941754072905
+  saturation: 0.08847492793574929
+  rhythmicContrast: 0.17104422487318516
+purpose: []
